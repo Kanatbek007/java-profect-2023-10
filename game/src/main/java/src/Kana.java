@@ -1,6 +1,8 @@
 package src;
 
 import static java.lang.Math.abs;
+
+// count numbers to 10
 public class Kana {
     public static void main(String []args){
 

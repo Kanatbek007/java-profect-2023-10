@@ -11,7 +11,7 @@ public class GFG{
         return x*x*x - x*x + 2;
     }
 
-    // Prints root of func(x) with error of EPSILON
+    // Напишите цикл функции
     static void bisection(double a, double b)
     {
         if (func(a) * func(b) >= 0)
