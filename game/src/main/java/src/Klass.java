@@ -3,7 +3,7 @@ package src;
 public class Klass {
     public static void main(String[] args) {
         int sum = 0;
-        int x[] = {65, -77, 88, -200, 130};
+        int x[] = {65, -7, 8, -200, 130};
         int min = x[0];
         int max = x[0];
         for (int i = 0; i < x.length; i++) {
